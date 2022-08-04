@@ -18,6 +18,7 @@ Dispose of any Unwanted Items!
 ```
 
 <br/>
+
 ## Get the Plugin Here
 - https://github.com/BTPlugins/BTTrash/releases/tag/Release
 
