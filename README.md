@@ -7,6 +7,7 @@ Dispose of any Unwanted Items!
 - **/Garbage** &lt;Duty Tag> | ``BTTrash.Garbage``
 - **/Trash** |  ``BTTrash.Garbage``
 <br />
+
 ## Configuration
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -15,6 +16,7 @@ Dispose of any Unwanted Items!
   <Height>10</Height>
 </TrashPluginConfiguration>
 ```
+
 <br/>
 ## Get the Plugin Here
 - https://github.com/BTPlugins/BTTrash/releases/tag/Release
